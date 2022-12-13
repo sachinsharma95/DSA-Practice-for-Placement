@@ -1,5 +1,6 @@
 Question link : https://leetcode.com/problems/single-number/description/  
 question number Leetcode 136 
+  or At gfg problem Name : Find the Element that Occurence at once 
   
   // solution 
   
