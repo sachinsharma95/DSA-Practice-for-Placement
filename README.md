@@ -7,8 +7,8 @@
 | |Questions by Love Babbar:| |
 | |Youtube Channel: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw | |
 | | | |
-|Topic:|Problem: | Link|Done [yes or no] |
-| | |<->|
+|Topic:|Problem: |Link|Done [yes or no] |
+| | | |<->|
 |Array|Reverse the array|<->|
 |Array|Find the maximum and minimum element in an array|<->|
 |Array|Find the "Kth" max and min element of an array |<->|
