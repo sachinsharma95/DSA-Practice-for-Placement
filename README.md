@@ -7,7 +7,7 @@
 | |Questions by Love Babbar:| |
 | |Youtube Channel: https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw | |
 | | | |
-|Topic:|Problem: |Done [yes or no] |
+|Topic:|Problem: | Link |Done [yes or no] |
 | | |<->|
 |Array|Reverse the array|<->|
 |Array|Find the maximum and minimum element in an array|<->|
@@ -15,7 +15,7 @@
 |Array|Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo|<->|
 |Array|Move all the negative elements to one side of the array |<->|
 |Array|Find the Union and Intersection of the two sorted arrays.|<->|
-|Array|Write a program to cyclically rotate an array by one.|<->|
+|Array|Write a program to cyclically rotate an array by one.|https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1|<->|
 |Array|find Largest sum contiguous Subarray [V. IMP]|<->|
 |Array|Minimise the maximum difference between heights [V.IMP]|<->|
 |Array|Minimum no. of Jumps to reach end of an array|<->|
